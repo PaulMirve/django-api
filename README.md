@@ -1,0 +1,1 @@
+Django app using Django Rest Framework to create a basic CRUD API for the SQL example database of Sakila, specifically of the Actor table
